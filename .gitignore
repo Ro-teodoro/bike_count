@@ -2,6 +2,7 @@
 data
 results
 models
+download/*
 libs/solaris/nets/weights/*
 
 # Byte-compiled / optimized / DLL files
